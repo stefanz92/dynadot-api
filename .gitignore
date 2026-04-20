@@ -24,5 +24,8 @@ docs
 /examples/.secret
 /.phpunit.result.cache
 /.phpunit.cache/test-results
+/clover.xml
+/.phpunit.cache/
 
 .php-cs-fixer.cache
+composer.lock
